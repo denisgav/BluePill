@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "6eec0a00-b981-436b-840a-545380f4549d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 167.64 49.53)
+		(size 62.23 46.99)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9066b10f-e31c-44bf-bdb8-540791662959")
+		(property "Sheetname" "Power_and_USB"
+			(at 167.64 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_and_USB.kicad_sch"
+			(at 167.64 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BluePill"
+				(path "/6eec0a00-b981-436b-840a-545380f4549d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 45.72 49.53)
+		(size 76.2 49.53)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e93b1517-db6c-4b41-8c93-0ea925ca1ec1")
+		(property "Sheetname" "MCU"
+			(at 45.72 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 45.72 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "BluePill"
+				(path "/6eec0a00-b981-436b-840a-545380f4549d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
