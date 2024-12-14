@@ -6961,7 +6961,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 81.28 177.8 0)
 			(effects
 				(font
@@ -7041,7 +7041,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 31.75 168.91 0)
 			(effects
 				(font
@@ -7111,7 +7111,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 64.4652 43.18 0)
 			(effects
 				(font
@@ -7180,7 +7180,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 39.0652 41.91 0)
 			(effects
 				(font
@@ -7248,7 +7248,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 107.95 179.07 0)
 			(effects
 				(font
@@ -7276,16 +7276,16 @@
 			)
 		)
 		(pin "5"
-			(uuid "2e9950a7-71ab-4ff6-88cf-d7b08f44f7f1")
+			(uuid "2e9950a7-71ab-4ff6-88cf-d7b08f44f7f2")
 		)
 		(pin "3"
 			(uuid "088d0db1-75a6-4498-9f0c-32abec0902f3")
 		)
 		(pin "4"
-			(uuid "4ba405a4-f982-42a7-baf1-53c6d22acd71")
+			(uuid "4ba405a4-f982-42a7-baf1-53c6d22acd72")
 		)
 		(pin "6"
-			(uuid "b5d3f30d-0879-4301-969d-cad3a3f07da5")
+			(uuid "b5d3f30d-0879-4301-969d-cad3a3f07da6")
 		)
 		(pin "2"
 			(uuid "eb32f44a-073e-4f84-8594-ae3806034a27")
@@ -7312,7 +7312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c11f08e-b66b-40e5-850f-91fb66104d29")
-		(property "Reference" "R104"
+		(property "Reference" "R105"
 			(at 76.2 184.1499 0)
 			(effects
 				(font
@@ -7330,7 +7330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 71.882 185.42 90)
 			(effects
 				(font
@@ -7366,7 +7366,7 @@
 		(instances
 			(project "BluePill"
 				(path "/6eec0a00-b981-436b-840a-545380f4549d/e93b1517-db6c-4b41-8c93-0ea925ca1ec1"
-					(reference "R104")
+					(reference "R105")
 					(unit 1)
 				)
 			)
@@ -7399,7 +7399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 40.3352 92.71 0)
 			(effects
 				(font
@@ -7595,7 +7595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a63faa6-4ecf-4be7-b05f-90a25a73df15")
-		(property "Reference" "R105"
+		(property "Reference" "R106"
 			(at 102.87 185.4199 0)
 			(effects
 				(font
@@ -7613,7 +7613,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 98.552 186.69 90)
 			(effects
 				(font
@@ -7649,7 +7649,7 @@
 		(instances
 			(project "BluePill"
 				(path "/6eec0a00-b981-436b-840a-545380f4549d/e93b1517-db6c-4b41-8c93-0ea925ca1ec1"
-					(reference "R105")
+					(reference "R106")
 					(unit 1)
 				)
 			)
@@ -7796,7 +7796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5cbba25f-e285-4812-bd1b-089222fcca4d")
-		(property "Reference" "R105"
+		(property "Reference" "R107"
 			(at 137.16 179.0699 0)
 			(effects
 				(font
@@ -7814,7 +7814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 132.842 180.34 90)
 			(effects
 				(font
@@ -7850,7 +7850,7 @@
 		(instances
 			(project "BluePill"
 				(path "/6eec0a00-b981-436b-840a-545380f4549d/e93b1517-db6c-4b41-8c93-0ea925ca1ec1"
-					(reference "R105")
+					(reference "R107")
 					(unit 1)
 				)
 			)
@@ -7882,7 +7882,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
 			(at 213.36 54.61 0)
 			(effects
 				(font
@@ -7957,7 +7957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 44.1452 184.15 0)
 			(effects
 				(font
@@ -8168,7 +8168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 52.07 82.55 0)
 			(effects
 				(font
@@ -8243,7 +8243,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 116.5352 44.45 0)
 			(effects
 				(font
@@ -8313,7 +8313,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
 			(at 238.76 115.57 0)
 			(effects
 				(font
@@ -8634,7 +8634,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical"
 			(at 217.17 115.57 0)
 			(effects
 				(font
@@ -8756,7 +8756,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 143.51 173.99 0)
 			(effects
 				(font
@@ -9034,7 +9034,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 77.1652 43.18 0)
 			(effects
 				(font
@@ -9103,7 +9103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 59.3852 92.71 0)
 			(effects
 				(font
@@ -9435,7 +9435,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 135.89 33.02 0)
 			(effects
 				(font
@@ -9646,7 +9646,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 259.08 56.388 90)
 			(effects
 				(font
@@ -9715,7 +9715,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 127.9652 43.18 0)
 			(effects
 				(font
@@ -9848,7 +9848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 259.08 53.848 90)
 			(effects
 				(font
@@ -9917,7 +9917,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 145.7452 44.45 0)
 			(effects
 				(font
@@ -10035,7 +10035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4c8d200-9ff2-47e8-b54c-8cf57d0f5d01")
-		(property "Reference" "R106"
+		(property "Reference" "R104"
 			(at 45.72 166.3699 0)
 			(effects
 				(font
@@ -10053,7 +10053,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 44.958 167.64 90)
 			(effects
 				(font
@@ -10089,7 +10089,7 @@
 		(instances
 			(project "BluePill"
 				(path "/6eec0a00-b981-436b-840a-545380f4549d/e93b1517-db6c-4b41-8c93-0ea925ca1ec1"
-					(reference "R106")
+					(reference "R104")
 					(unit 1)
 				)
 			)
@@ -10451,7 +10451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 51.7652 43.18 0)
 			(effects
 				(font
@@ -10651,7 +10651,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 69.85 74.168 90)
 			(effects
 				(font
@@ -10721,7 +10721,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 89.8652 43.18 0)
 			(effects
 				(font

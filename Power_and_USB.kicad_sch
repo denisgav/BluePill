@@ -4021,7 +4021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 76.962 55.88 90)
 			(effects
 				(font
@@ -4091,7 +4091,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
 			(at 209.55 64.77 0)
 			(effects
 				(font
@@ -4270,7 +4270,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PhilsLab_Footprints_KiCad6:CMC-1206"
+		(property "Footprint" ""
 			(at 54.61 62.23 0)
 			(effects
 				(font
@@ -4345,7 +4345,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 84.7852 135.89 0)
 			(effects
 				(font
@@ -4415,7 +4415,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 65.7352 135.89 0)
 			(effects
 				(font
@@ -4570,7 +4570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 153.162 132.08 90)
 			(effects
 				(font
@@ -4639,7 +4639,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 172.4152 135.89 0)
 			(effects
 				(font
@@ -4699,7 +4699,7 @@
 				)
 			)
 		)
-		(property "Value" "15u"
+		(property "Value" "15u Sunlord MWSA0603S-100MT"
 			(at 121.92 123.19 90)
 			(effects
 				(font
@@ -4716,7 +4716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.lcsc.com/product-detail/Power-Inductors_Sunlord-MWSA0603S-100MT_C132141.html"
 			(at 121.92 125.73 0)
 			(effects
 				(font
@@ -4775,7 +4775,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 52.07 125.73 0)
 			(effects
 				(font
@@ -4845,7 +4845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 96.2152 62.23 0)
 			(effects
 				(font
@@ -4981,7 +4981,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 153.162 144.78 90)
 			(effects
 				(font
@@ -5117,7 +5117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 39.0652 135.89 0)
 			(effects
 				(font
@@ -5596,7 +5596,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 202.692 133.35 90)
 			(effects
 				(font
@@ -5664,7 +5664,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 194.31 125.73 0)
 			(effects
 				(font
@@ -5932,7 +5932,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 163.068 62.23 90)
 			(effects
 				(font
@@ -6068,7 +6068,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 154.178 62.23 90)
 			(effects
 				(font
@@ -6203,7 +6203,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 135.5852 135.89 0)
 			(effects
 				(font
